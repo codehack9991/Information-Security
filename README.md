@@ -16,7 +16,8 @@ This Github repository contains the codes for the following :
     - DES (Data Encyption Standard) (with number of rounds 16 and 20)
     
 - Asymmetric Encryption : 
-    
+    - Euler's Totient Function
+
 - PRNGs(Pseudorandom Number Generators) :
     - LCG (Linear Congruential Generators)
     - BBS (Blum Blum Schub)
